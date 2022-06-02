@@ -1,0 +1,304 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+body{
+    background-color:#9db7ce ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img1{
+    position: absolute;
+    width: 1536px;
+    height: 500px;
+}
+
+.img2{
+    position:absolute;
+    width: 400px;
+}
+
+.Div1{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: white;
+    border-radius: 50px;
+    width: 430px;
+    height: 640px;
+    left: 800px;
+    top: 50px;
+}
+
+.btn1{
+    position: relative;
+    width: 350px;
+    height: 80px;
+    background-color: #2E2E88;
+    border-radius: 15px;
+    left: 40px;
+    top: 20px;
+}
+
+.HH{
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    left: 50px;
+    top: 60px;
+}
+
+.img3{
+    position: absolute;
+    width:100px ;
+    left: 80px;
+    top: 110px;
+}
+.img4{
+    position: relative;
+    width: 60px;
+    right: 100px;
+    top: 5px;
+}
+
+.H1{
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    bottom: 45px;
+    left: 10px;
+}
+
+.btn2{
+    position: relative;
+    width: 350px;
+    height: 80px;
+    background-color: #9db7ce;
+    border-radius: 15px;
+    left: 40px;
+    top: 20px;
+}
+
+.img5{
+    position: relative;
+    width: 60px;
+    right: 130px;
+    top: 5px;
+}
+
+.H2{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    bottom: 45px;
+    right: 30px;
+}
+
+.h1{
+    position: relative;
+    color: black;
+    font-size:17px;
+    font-weight: bold;
+    bottom: 90px;
+    left: 110px;
+}
+
+.hh1{
+    position: relative;
+    color: black;
+    font-size:15px;
+    font-weight: lighter;
+    bottom: 80px;
+    left: 115px;
+}
+
+.btn3{
+    position: relative;
+    width: 350px;
+    height: 80px;
+    background-color: #9db7ce;
+    border-radius: 15px;
+    left: 40px;
+    top: 20px;
+}
+
+.img6{
+    position: relative;
+    width: 60px;
+    right: 130px;
+    top: 5px;
+}
+
+.H3{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    bottom: 45px;
+    right: 30px;
+}
+
+.h2{
+    position: relative;
+    color: black;
+    font-size:17px;
+    font-weight: bold;
+    bottom: 90px;
+    left: 110px;
+}
+
+.hh2{
+    position: relative;
+    color: black;
+    font-size:15px;
+    font-weight: lighter;
+    bottom: 80px;
+    left: 115px;
+}
+
+.btn4{
+    position: relative;
+    width: 350px;
+    height: 80px;
+    background-color: #9db7ce;
+    border-radius: 15px;
+    left: 40px;
+    top: 20px;
+}
+
+.img7{
+    position: relative;
+    width: 60px;
+    right: 130px;
+    top: 5px;
+}
+
+.H4{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    bottom: 45px;
+    right: 30px;
+}
+
+.h3{
+    position: relative;
+    color: black;
+    font-size:17px;
+    font-weight: bold;
+    bottom: 90px;
+    left: 110px;
+}
+
+.hh3{
+    position: relative;
+    color: black;
+    font-size:15px;
+    font-weight: lighter;
+    bottom: 80px;
+    left: 115px;
+}
+
+.btn5{
+    position: relative;
+    width: 350px;
+    height: 80px;
+    background-color: #9db7ce;
+    border-radius: 15px;
+    left: 40px;
+    top: 20px;
+}
+
+.img8{
+    position: relative;
+    width: 60px;
+    right: 130px;
+    top: 5px;
+}
+
+.H5{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    bottom: 45px;
+    right: 30px;
+}
+
+.h4{
+    position: relative;
+    color: black;
+    font-size:17px;
+    font-weight: bold;
+    bottom: 90px;
+    left: 110px;
+}
+
+.hh4{
+    position: relative;
+    color: black;
+    font-size:15px;
+    font-weight: lighter;
+    bottom: 80px;
+    left: 115px;
+}
+
+.btn6{
+    position: relative;
+    width: 350px;
+    height: 80px;
+    background-color: #9db7ce;
+    border-radius: 15px;
+    left: 40px;
+    top: 20px;
+}
+
+.img9{
+    position: relative;
+    width: 60px;
+    right: 130px;
+    top: 5px;
+}
+
+.H6{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    bottom: 45px;
+    right: 30px;
+}
+
+.h5{
+    position: relative;
+    color: black;
+    font-size:17px;
+    font-weight: bold;
+    bottom: 90px;
+    left: 110px;
+}
+
+.hh5{
+    position: relative;
+    color: black;
+    font-size:15px;
+    font-weight: lighter;
+    bottom: 80px;
+    left: 115px;
+}
+

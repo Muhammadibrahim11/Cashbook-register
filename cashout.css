@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:#9db7ce ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img1{
+    position: fixed;
+    width: 2000px;
+    height: 200px;
+}
+
+.img2{
+    position: absolute;
+    width: 100px;
+    left: 100px;
+    top:30px;
+}
+
+.HH{
+    position: absolute;
+    left: 640px;
+    top: 50px;
+    color: white;
+    font-size: 50px;
+}
+
+.DIV1{
+    position: absolute;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    gap:90px;
+    top: 200px;
+    left: 530px;
+    border-radius: 60px;
+}
+
+.btn1{
+    position: relative;
+    background-color:#2E2E88 ;
+    color: white;
+    font-size: 25px;
+    width: 300px;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    border-radius: 20px ;
+    left: 50px;
+    top: 30px;
+}
+
+.btn2{
+    position: relative;
+    background-color:#2E2E88 ;
+    color: white;
+    font-size: 25px;
+    width: 200px;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    border-radius: 20px ;
+    left: 100px;
+}
+
+input{
+    position: relative;
+    background-color:#9db7ce ;
+    color: white;
+    font-size: 25px;
+    width: 270px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 20px ;
+    left: 50px;
+}
+

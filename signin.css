@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #9db7ce;
+}
+
+.img-1{
+    position: fixed;
+    width: 1560px;
+    height: 200px;
+}
+
+.H1{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 100px;
+    top: 50px;
+    font-size: 50px;
+}
+
+.para1{
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 610px;
+    top: 65px;
+    font-size: 30px;
+}
+
+.DIV1{
+    position: absolute;
+    background-color: white;
+    border-radius: 60px;
+    width: 380px;
+    height: 500px;
+    left: 570px;
+    top: 130px;
+}
+
+.Div-2{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    top: 30px;
+    left: 19px;
+}
+.In1{
+    background-color: #9db7ce;
+    width:320px ;
+    border-radius: 20px;
+    align-items: center;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+.In2{
+    background-color: #9db7ce;
+    width:320px ;
+    border-radius: 20px;
+    align-items: center;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+.a2{
+    position: relative;
+    color: black;
+    text-decoration: none;
+    left: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 40px;
+}
+
+.btn-1{
+    position: relative;
+    background-color: #2E2E88;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 80px;
+    left: 20px;
+    width:340px ;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    font-size: 25px;
+}
+
+.or{
+    color:#2E2E88;
+    font-weight: bold;
+}
+
+.para2{
+    position: relative;
+    left: 24px;
+    top:110px;
+}
+
+.btn-2{
+    position: relative;
+    background-color: #335cb5;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 140px;
+    left: 20px;
+    width:340px ;
+    border-radius: 20px;
+    padding: 12px 10px 12px 10px;
+    color: white;
+    font-size: 25px;
+}
+
+.btn-3{
+    position: relative;
+    background-color: #db3615;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 150px;
+    left: 20px;
+    width:340px ;
+    border-radius: 20px;
+    padding: 12px 10px 12px 10px;
+    color: white;
+    font-size: 25px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.para3{
+    position: absolute;
+    color: black;
+    font-size: 25px;
+    left: 580px;
+    top: 650px;
+    font-weight: bold;
+}
+
+.signup{
+    text-decoration: none;
+    color:#2E2E88;
+    font-family: Arial, Helvetica, sans-serif;
+}
